@@ -1,6 +1,9 @@
-import time
+"""
+문제 : 어떤 캐릭터가 n x n 행렬에서 움직일 수 있다. 시작 지점이 1,1 라고 한다면
+       마지막에 캐릭터는 어디에 있는가. 단, 캐릭터가 n x n 행렬 밖으로 나가려는 행동은 무효처리 된다.
 
-start = time.time()
+의문점 : 상하좌우(1)와 차이점은?
+"""
 
 n = int(input())
 move = list(map(str,input().split()))
@@ -22,8 +25,3 @@ for i in move:
         x,y = tx,ty
 
 print(x,y)
-
-
-finish = time.time()
-
-print(finish - start)

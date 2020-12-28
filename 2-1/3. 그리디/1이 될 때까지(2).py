@@ -18,11 +18,11 @@ while True:
         c += 1
     #(2)
     else:
-        cc = n % k
-        n -= cc
-        c += cc
+        t = n % k
+        n -= t
+        c += t
 
-    if n == 1:
+    if n == 0:
         break
 
-print(c)
+print(c - 1)

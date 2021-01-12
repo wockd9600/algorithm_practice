@@ -36,3 +36,13 @@
     * !!
   * 일요일 - 구현_예제2
     * !!
+<br>
+
+* #### 3주차
+  * 월요일 - 정렬_개념
+    * 기본적인 정렬 개념 ([QuickSort](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/3%EC%A3%BC%EC%B0%A8/%EC%9B%94%5B%EC%A0%95%EB%A0%AC_%EA%B0%9C%EB%85%90%5D/%ED%80%B5%20%EC%A0%95%EB%A0%AC(py.ver).py), [MergeSort](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/3%EC%A3%BC%EC%B0%A8/%EC%9B%94%5B%EC%A0%95%EB%A0%AC_%EA%B0%9C%EB%85%90%5D/mergesort.py))
+  * 화요일 - 정렬_예제
+    * 보류 중인 문제 ([여기](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/3%EC%A3%BC%EC%B0%A8/%ED%99%94%5B%EC%A0%95%EB%A0%AC_%EC%98%88%EC%A0%9C%5D/1715%EB%B2%88%20%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0(%EB%B3%B4%EB%A5%98).py))
+
+
+

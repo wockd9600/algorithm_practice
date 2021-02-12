@@ -21,13 +21,15 @@ for i in range(1, v + 1):
 edges = []
 result = 0
 
+# cost
 for _ in range(e):
     a, b, cost = map(int, input().split())
     edges.append((cost, a, b))
 
+# 비용순으로 모든 엣지를 정렬함.
 edges.sort()
 
-
+# 작은 비용순으로 확인한다.
 for edge in edges:
     cost, a, b = edge
     if find_parent(parent, a) != find_parent(parent, b):

@@ -1,3 +1,11 @@
+"""
+BFS (Breadth Frist Search) 너비 우선 탐색
+트리 구조를 생각해보자.
+가장 상단에 노드로 부터 자손 노드로 뻗어 있는 형태일 것이다.
+너비 우선 탐색은 자손의 탐색이 끝나지 않은 최상단 노드의 자손부터 방문하는 방식이다.
+가중치 없는 최단 거리를 구하기 적합하다.
+"""
+
 from collections import deque
 
 # deque를 이용한 bfs
@@ -21,7 +29,7 @@ def bfs(graph, start, visited):
                 queue.append(i)
                 visited[i] = True
 
-# 그래프 모양을 그린다.
+# 그래프(Adjacency List) 모양을 그린다.
 graph = [
     [],
     [2, 3, 8],

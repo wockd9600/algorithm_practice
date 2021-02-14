@@ -4,6 +4,8 @@
 <br>
 
 ID : [BAEKJOON](https://www.acmicpc.net/user/wockd9600)([solved](https://solved.ac/profile/wockd9600))
+<br>
+with STUDY : [GYUSEOK](https://github.com/Gyu-Seok0/python-for-coding-test)
 
 <br>
 
@@ -48,13 +50,13 @@ ID : [BAEKJOON](https://www.acmicpc.net/user/wockd9600)([solved](https://solved.
   * 월요일 - DFS, BFS_개념
     * 가장 기본 그래프 ([bfs](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/2%EC%A3%BC%EC%B0%A8/%EC%9B%94%5BDFS%2C%20BFS_%EA%B0%9C%EB%85%90%5D/3.%20bfs.py), [dfs](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/2%EC%A3%BC%EC%B0%A8/%EC%9B%94%5BDFS%2C%20BFS_%EA%B0%9C%EB%85%90%5D/3.%20dfs.py))
   * 화요일 - DFS, BFS_예제1
-    * 한 번에
+    * 특정 거리의 도시 찾기 ([여기](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/2%EC%A3%BC%EC%B0%A8/%ED%99%94%5BDFS%2C%20BFS_%EC%98%88%EC%A0%9C1%5D/15.%20%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%20%EC%B0%BE%EA%B8%B0.py))
   * 수요일 - DFS, BFS_예제2
-    * 한 번에
+    * 연구소 ([여기](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/2%EC%A3%BC%EC%B0%A8/%EC%88%98%5BDFS%2C%20BFS_%EC%98%88%EC%A0%9C2%5D/16.%20%EC%97%B0%EA%B5%AC%EC%86%8C(1).py))
   * 토요일 - DFS, BFS_예제3
-    * 한 번에
-  * 일화요일 - DFS, BFS_예제4
-    * 한 번에
+    * 경쟁적 전염 ([여기](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/2%EC%A3%BC%EC%B0%A8/%ED%86%A0%5BDFS%2C%20BFS_%EC%98%88%EC%A0%9C3%5D/17.%20%EA%B2%BD%EC%9F%81%EC%A0%81%20%EC%A0%84%EC%97%BC(1).py))
+  * 일요일 - DFS, BFS_예제4
+    * 감시 피하기 ([여기](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/2%EC%A3%BC%EC%B0%A8/%EC%9D%BC%5BDFS%2C%20BFS_%EC%98%88%EC%A0%9C4%5D/20.%20%EA%B0%90%EC%8B%9C%20%ED%94%BC%ED%95%98%EA%B8%B0.py))
   
 <br>
 
@@ -62,7 +64,31 @@ ID : [BAEKJOON](https://www.acmicpc.net/user/wockd9600)([solved](https://solved.
   * 월요일 - 정렬_개념
     * 기본적인 정렬 개념 ([QuickSort](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/3%EC%A3%BC%EC%B0%A8/%EC%9B%94%5B%EC%A0%95%EB%A0%AC_%EA%B0%9C%EB%85%90%5D/%ED%80%B5%20%EC%A0%95%EB%A0%AC(py.ver).py), [MergeSort](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/3%EC%A3%BC%EC%B0%A8/%EC%9B%94%5B%EC%A0%95%EB%A0%AC_%EA%B0%9C%EB%85%90%5D/mergesort.py))
   * 화요일 - 정렬_예제
-    * 보류 중인 문제 ([여기](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/3%EC%A3%BC%EC%B0%A8/%ED%99%94%5B%EC%A0%95%EB%A0%AC_%EC%98%88%EC%A0%9C%5D/1715%EB%B2%88%20%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0(%EB%B3%B4%EB%A5%98).py))
+    * 다차원 배열 정렬하기 ([국영수](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/3%EC%A3%BC%EC%B0%A8/%ED%99%94%5B%EC%A0%95%EB%A0%AC_%EC%98%88%EC%A0%9C%5D/10825%EB%B2%88%20%EA%B5%AD%EC%98%81%EC%88%98.py))
+  * 수요일 - 이진 탐색_개념
+    * 가장 기본 이진 탐색 ([재귀](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/3%EC%A3%BC%EC%B0%A8/%EC%88%98%5B%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89_%EA%B0%9C%EB%85%90%5D/1.%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%EC%BD%94%EB%93%9C(%EC%9E%AC%EA%B7%80).py), [반복](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/3%EC%A3%BC%EC%B0%A8/%EC%88%98%5B%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89_%EA%B0%9C%EB%85%90%5D/1.%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%EC%BD%94%EB%93%9C(%EB%B0%98%EB%B3%B5).py))
+    * 떡볶이 떡 만들기 ([여기](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/3%EC%A3%BC%EC%B0%A8/%EC%88%98%5B%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89_%EA%B0%9C%EB%85%90%5D/3.%20%EB%96%A1%EB%B3%B6%EC%9D%B4%20%EB%96%A1%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py))
+  * 금요일 - 이진 탐색_예제
+    * 공유기 ([여기](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/3%EC%A3%BC%EC%B0%A8/%EA%B8%88%5B%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89_%EC%98%88%EC%A0%9C%5D/%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98.py))
 
+<br>
 
+* #### 4주차
+  * 화요일 - 다이나믹 프로그래밍_개념
+    * 캐싱으로 최적의 값만 저장 ([효율적인 화폐 구성](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/4%EC%A3%BC%EC%B0%A8/%ED%99%94%5B%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EA%B0%9C%EB%85%90%5D/5.%20%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%ED%99%94%ED%8F%90%20%EA%B5%AC%EC%84%B1.py))
+  * 수요일 - 다이나믹 프로그래밍_예제1
+    * 정수 삼각형 ([여기](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/4%EC%A3%BC%EC%B0%A8/%EC%88%98%5B%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%98%88%EC%A0%9C1%5D/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.py))
+  * 목요일 - 다이나믹 프로그래밍_예제2
+    * LIS(Longest Increasing Subsequence) ([병사 배치하기](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/4%EC%A3%BC%EC%B0%A8/%EB%AA%A9%5B%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%98%88%EC%A0%9C2%5D/%EB%B3%91%EC%82%AC%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.py))
+    
+<br>
 
+* #### 5주차
+  * 화요일 - 최단 경로_개념
+    * 다익스트라, 플로이드 워셜 ([dijks](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/5%EC%A3%BC%EC%B0%A8/%ED%99%94%5B%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C_%EA%B0%9C%EB%85%90%5D/1.%20dijkstra(heapq).py), [floyd](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/5%EC%A3%BC%EC%B0%A8/%ED%99%94%5B%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C_%EA%B0%9C%EB%85%90%5D/Floyd-Warshall%20Algorithm.py))
+  * 목요일 - 최단 경로_개념
+    * 크루스칼, 서로소 ([krus](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/5%EC%A3%BC%EC%B0%A8/%EB%AA%A9%5B%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0_%EA%B0%9C%EB%85%90%5D/Kruskal%20Algorithm.py), [disjoint](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/5%EC%A3%BC%EC%B0%A8/%EB%AA%A9%5B%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0_%EA%B0%9C%EB%85%90%5D/disjoint%20sets.py))
+
+<br>
+
+* #### [feedback](https://github.com/wockd9600/algorithm_practice/blob/main/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4(%EC%8A%A4%ED%84%B0%EB%94%94)/feedback.py)

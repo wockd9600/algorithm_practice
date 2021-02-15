@@ -7,7 +7,7 @@ import sys
 
 # 도시, 도로, 원하는 거리, 출발 도시
 n, m, k, x = map(int, sys.stdin.readline().split())
-# 도로 입력
+# 도로 입력 (Adjacency List)
 road = [[] for _ in range(n+1)]
 for _ in range(m):
     a, b = map(int, sys.stdin.readline().split())
@@ -22,7 +22,7 @@ queue = deque([x])
 distance[x] = 0
 while queue:
     city = queue.popleft()
-    # 해당 도시와 연결된 도시가 방문된 적 없으면 큐에 넣는다.
+    # 해당 도시와 연결된 도시 중 방문된 적 없으면 큐에 넣는다.
     for i in road[city]:
         if distance[i] == -1:
             queue.append(i)

@@ -67,7 +67,7 @@ n = int(input())
 hall = []
 for _ in range(n):
     hall.append(list(input().split()))
-# 임시 복도ㄴ
+# 임시 복도
 temp =[[0] * n for _ in range(n)]
 
 queue = deque([])

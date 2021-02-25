@@ -20,6 +20,13 @@ with STUDY : [GYUSEOK](https://github.com/Gyu-Seok0/python-for-coding-test)
 #### set()의 활용
 * 탐색할 때 효율적이다. ([여기](https://github.com/wockd9600/algorithm_practice/blob/main/%EB%B0%B1%EC%A4%80/set()%EC%9D%98%20%ED%99%9C%EC%9A%A9/2%20%EB%B6%80%ED%92%88%20%EC%B0%BE%EA%B8%B0(set).py))
 
+#### 다시 보고 싶은 코드
+* Recursive
+  * 스도쿠([2580](https://github.com/wockd9600/algorithm_practice/blob/main/%EB%B0%B1%EC%A4%80/%ED%95%9C%20%EB%B2%88%20%EB%8D%94%20%EB%B3%B4%EA%B3%A0%20%EC%8B%B6%EC%9D%80%20%EB%AC%B8%EC%A0%9C/Recursive/2580%EB%B2%88%20%EC%8A%A4%EB%8F%84%EC%BF%A0.py))
+  * N-Queen([9663](https://github.com/wockd9600/algorithm_practice/blob/main/%EB%B0%B1%EC%A4%80/%ED%95%9C%20%EB%B2%88%20%EB%8D%94%20%EB%B3%B4%EA%B3%A0%20%EC%8B%B6%EC%9D%80%20%EB%AC%B8%EC%A0%9C/Recursive/9663%EB%B2%88%20N-Queen.py))
+* Dynamic Programming
+  * 포도주 시식([2156](https://github.com/wockd9600/algorithm_practice/blob/main/%EB%B0%B1%EC%A4%80/%ED%95%9C%20%EB%B2%88%20%EB%8D%94%20%EB%B3%B4%EA%B3%A0%20%EC%8B%B6%EC%9D%80%20%EB%AC%B8%EC%A0%9C/Dynamic%20Programming/2156%EB%B2%88%20%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.py))
+
 <br>
 
 ### 이것이 코딩테스트다(개인)

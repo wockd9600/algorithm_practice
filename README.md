@@ -3,7 +3,7 @@
 >(해당 깃의 모든 프로그래밍 언어는 python이다.)
 <br>
 
-ID : [BAEKJOON](https://www.acmicpc.net/user/wockd9600)([solved](https://solved.ac/profile/wockd9600))
+ID : [NAVER](https://blog.naver.com/wockd9600), [BAEKJOON](https://www.acmicpc.net/user/wockd9600)([solved](https://solved.ac/profile/wockd9600))
 <br>
 with STUDY : [GYUSEOK](https://github.com/Gyu-Seok0/python-for-coding-test)
 

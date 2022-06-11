@@ -1,9 +1,3 @@
-from gc import garbage
-import heapq
-
-
-import heapq
-import heapq
 import heapq
 import sys
 input = sys.stdin.readline

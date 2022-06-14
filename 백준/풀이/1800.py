@@ -9,27 +9,23 @@ def dijkstra(s):
 
     dp = [[INF] * (k + 1) for _ in range(n + 1)]
     dp[1] = [0 for _ in range(k + 1)]
-    pre = [[-1] * (k + 1) for _ in range(n + 1)]
-    print('-')
+    
     while q:
         dist, now, free = heapq.heappop(q)
 
         if dist > dp[now][free]: continue
-        print(now, dist, free)
 
         for next_node, l in network[now]:
-            cost = dist + l
+            cost = max(dist, l)
             
             if cost < dp[next_node][free]:
                 dp[next_node][free] = cost
                 heapq.heappush(q, (cost, next_node, free))
-                pre[next_node][free] = now
             
             if free < k and dist < dp[next_node][free+1]:
                 dp[next_node][free+1] = dist
                 heapq.heappush(q, (dist, next_node, free + 1))
-                pre[next_node][free+1] = now
-    print(pre)
+
     return dp
 
 n, p, k = map(int, input().rstrip().split())
@@ -42,4 +38,6 @@ for _ in range(p):
     network[b].append((a, c))
 
 dp = dijkstra(1)
-print(dp)
+
+answer = min(dp[n])
+print(answer if answer != INF else -1)
